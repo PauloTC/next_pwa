@@ -1,0 +1,32 @@
+{
+    "theme_color": "#E96767",
+    "background_color": "#3E28D1",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Dia Dia app",
+    "short_name": "Dia Dia",
+    "description": "A random app to show",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
